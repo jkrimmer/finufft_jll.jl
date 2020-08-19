@@ -1,0 +1,113 @@
+[[finufft]]
+arch = "aarch64"
+git-tree-sha1 = "75a1837a708aeb342d9fd1588174e2029f063288"
+libc = "glibc"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "452aea727bd57e9aca17b8153b01d20132c2fa65860556eca678c226213f90df"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.aarch64-linux-gnu.tar.gz"
+[[finufft]]
+arch = "aarch64"
+git-tree-sha1 = "d27219254a99523115ee8e04f7eccdc24aa03540"
+libc = "musl"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "e26510f8a64e6ef9a710c55c808bdaddf63086e8f17a6dba9064c25727247e58"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.aarch64-linux-musl.tar.gz"
+[[finufft]]
+arch = "armv7l"
+git-tree-sha1 = "b5db2400340d327d47091df18172b15f3a228cfe"
+libc = "glibc"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "c6338777a3b01c8580503abfc03ed2efc2370263a1a54b2350afd5e42c00ab31"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[finufft]]
+arch = "armv7l"
+git-tree-sha1 = "ae5f92efbeaa0e37434aff0849d31406b3d76540"
+libc = "musl"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "1725b7eb685bce60c24e0148856f510caecf5262a62702a253602f55eb529dc9"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.armv7l-linux-musleabihf.tar.gz"
+[[finufft]]
+arch = "i686"
+git-tree-sha1 = "a16c039fa3d3d94e5b718d310b7ffccc90a9d8c2"
+libc = "glibc"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "4ac687dbe0a2b6a336cb4172eaaae30bc01d250a35a99925c4d01bcccc51355f"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.i686-linux-gnu.tar.gz"
+[[finufft]]
+arch = "i686"
+git-tree-sha1 = "69e5008bc28ac98e4a8faedd31320bf0710d8be0"
+libc = "musl"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "0557686d25b571d4bce6fe586c68119514c4754b0b69649deafe3eec440e8599"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.i686-linux-musl.tar.gz"
+[[finufft]]
+arch = "i686"
+git-tree-sha1 = "e5277d60eae06bdcce5a41abf88feacd334fefa0"
+os = "windows"
+
+    [[finufft.download]]
+    sha256 = "35558a622d9facfeb32c9d072344966c775f9845b76bc915abcdd74d505c4a87"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.i686-w64-mingw32.tar.gz"
+[[finufft]]
+arch = "powerpc64le"
+git-tree-sha1 = "760a17e6b21956173f2cecaf1f886d82fc0aed1d"
+libc = "glibc"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "bfea9818ab07a78339babf7dd33f3e5f580d31c44e3a003e7f4f4fd2449640c6"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.powerpc64le-linux-gnu.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "c5fe6007f91f9db84169077b2df9f6c3a6eb623f"
+os = "macos"
+
+    [[finufft.download]]
+    sha256 = "bee001b5ff8da4e74dd24f87d4448d6b0b80276bfa2ed9e602bfc8501fa34497"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.x86_64-apple-darwin14.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "e112d3f5f2b756f33b9a033fc0435e355b3d144d"
+libc = "glibc"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "78772b18ca43d4e9e6174d77ada6c532e3c7e5a4b6e6d50d8bbcb3ecc56b4c7e"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "22be3a3e9827464e32f2582220bd24a751eeb902"
+libc = "musl"
+os = "linux"
+
+    [[finufft.download]]
+    sha256 = "b3807459c91a0fccb0d4373ebc95ece3ad2218ed6bb8e5970d83c01644054267"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.x86_64-linux-musl.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "4121c8adbeaf43b6c72ec4d0fc09b99bb11d71a7"
+os = "freebsd"
+
+    [[finufft.download]]
+    sha256 = "13b3e0ee25dfde4be3877eb46f9d61ead98e2c5261f67192c443b59ba924bb04"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[finufft]]
+arch = "x86_64"
+git-tree-sha1 = "ca610e90d74ae3a7ff427d7d9aaf3912a785b366"
+os = "windows"
+
+    [[finufft.download]]
+    sha256 = "5d54ecbb0e4777e8e6005c4601d3fb7e1fd187aa531c07e9291f360481a871ca"
+    url = "https://github.com/jonas-kr/finufft_jll.jl/releases/download/finufft-v2.0.0+0/finufft.v2.0.0.x86_64-w64-mingw32.tar.gz"
